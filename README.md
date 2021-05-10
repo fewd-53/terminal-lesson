@@ -3,7 +3,9 @@
 ![Image Header](https://res.cloudinary.com/ahonore42/image/upload/v1611081040/logos/cc51dfbbbc2ce9a76773196bea0126a8_a5fcbq.jpg)
 
 ## Overview
-In this lesson we will be covering how to use the MacOS Terminal. As a developer, you will likely be using your terminal every day to manage your workflow or execute commands to install and maintain necessary packages for applications you will be building. At the end of this lesson, we will use our terminal knowledge to build a file structure that will be used throughout the cohort.
+In this lesson we will be covering how to use the MacOS Terminal. If you prefer using iTerm or the VS Code Terminal, those will work as well
+
+As a developer, you will likely be using your terminal every day to manage your workflow or execute commands to install and maintain necessary packages for applications you will be building. At the end of this lesson, we will use our terminal knowledge to build a file structure that will be used throughout the cohort.
 
 
 ## Objectives
@@ -229,6 +231,8 @@ In this lesson we learned about using MacOS terminal commands, which can be very
 ## Resources
 [MacOS Terminal Commands](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
 
+
+___
 
 # Git
 Distributed Version Control using Git
