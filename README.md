@@ -147,51 +147,22 @@ Let's put our terminal skills to the test and build a few important directories
 - First, we'll `cd ~` to change directories to the root directory of our machines
 - Next, let's create a new directory called `ga_seir` (or something similar) 
 ```
-mkdir ga_seir
+mkdir ga_fewd
 ```
 - We'll be using this as the main directory to house all of our future repositories throughout the course
-- Now we'll need a directory for each unit in our cohort, why don't we try creating them all in one command? 
+- Now we'll need a directory for each type of project in our cohort. Let's make them all with one command.
 - `cd` into `ga_seir` first
 ```
-mkdir unit1 unit2 unit3 unit4
+mkdir lessons labs homework
 ```
 - Let's take a look and see if all of our folders were created within the `ga_seir` directory with `ls`
-- One more folder, since this might be a helpful place to have it
-```
-mkdir projects
-```
-- Perfect, why don't we add a few more directories within each unit folder to keep our work organized?
-- From the root `ga_seir` folder, we can make these directories using relative path
-```
-mkdir unit1/lessons unit1/labs unit1/homework
-```
-- Let's check inside of our unit1 folder to see if the new directories were created in the right place
-- `cd` into `unit1`, then use the `ls` command to see if the `lessons`, `labs`, and `homework` directories were created
-- Now let's make some directories for `unit2`. We'll have to get there first, so we'll change folders with `cd ../unit2`
-- Since we're now in the `unit2` directory, we can make the sub directories we need without any additional paths
-```
-mkdir lessons labs homework
-```
-- For `unit3` let's move back to the root `ga_seir` folder with a quick `cd ..` and run the same command
-```
-mkdir lessons labs homework
-```
-- Check with the `ls` command to see if they have been created
-- Oh no! They're in the wrong folder! Not good, we'll have to fix that right away using the `mv` command
-```
-mv lessons labs homework unit3
-```
-- Check inside your `unit3` folder to see if they've been moved properly
-- Finally, let's create the last 3 directories we need for `unit4` from the root `ga_seir` folder
-```
-mkdir unit4/lessons unit4/labs unit4/homework
-```
+
 - And with that, we've created an organized file structure that will allow us to keep our work organized throughout the cohort!
 
 ## A Few More Commands
-- Let's create a text file with your name in the `projects` directory
+- Let's create a text file with your name in the `labs` directory
 ```
-cd projects
+cd labs
 touch name.txt
 ```
 - Now, we'll use a special command `echo` to add some text to our name file
