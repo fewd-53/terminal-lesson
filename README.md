@@ -200,5 +200,6 @@ In this lesson we learned about using MacOS terminal commands, which can be very
 - `rm -rf` permanently deletes all of the files within a directory along with the directory itself 
 
 ## Resources
-[MacOS Terminal Commands](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
+- [MacOS Terminal Commands](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
+- [Windows CMD and MacOS Terminal Navigation](https://arian-celina.com/windows-cmd-macos-terminal-navigation/)
 
