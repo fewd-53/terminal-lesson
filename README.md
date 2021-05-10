@@ -1,4 +1,4 @@
-# Terminal and Git
+# Terminal
 
 ![Image Header](https://res.cloudinary.com/ahonore42/image/upload/v1611081040/logos/cc51dfbbbc2ce9a76773196bea0126a8_a5fcbq.jpg)
 
