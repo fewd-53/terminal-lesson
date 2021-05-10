@@ -24,6 +24,8 @@ As a developer, you will likely be using your terminal every day to manage your 
 - Type "Terminal"
 - Hit <kbd>return</kbd>
 
+- Windows Users: https://www.lifewire.com/how-to-open-command-prompt-2618089
+
 The terminal is a tool developers use to execute instructions to the computer. It's the developer's best friend! Through the terminal, one can navigate through files and folders with speed. We can write scripts to automate common tasks and run them in the terminal.
 
 ## Modifier keys?
